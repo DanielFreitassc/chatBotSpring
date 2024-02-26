@@ -11,6 +11,6 @@ public class ChatController {
     
     @GetMapping
     public ResponseEntity<String> answerQuestion() {
-        return ResponseEntity.ok("Oi");
+        return ResponseEntity.ok("Bem vindo ao chat bot");
     }
 }
