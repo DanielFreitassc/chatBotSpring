@@ -1,0 +1,29 @@
+{
+  "faq": [
+    {
+      "keywords": ["instituição", "Satc", "história", "fundação", "filantropia", "formação"],
+      "answer": "A Satc é uma instituição filantrópica fundada em 1959, inicialmente como braço assistencial da Indústria Carbonífera de Santa Catarina. Ao longo dos anos, tornou-se referência na formação técnica e cidadã de seus alunos, oferecendo desde a Educação Infantil até a Pós-graduação."
+    },
+    {
+      "keywords": ["missão", "valores", "visão", "corpo dirigente", "diretores"],
+      "answer": "A missão da Satc é transformar pessoas e organizações por meio da educação, tecnologia e inovação, contribuindo para um mundo melhor. Seus valores incluem educação contínua, crescimento sustentável, inovação, liderança, responsabilidade social e ambiental, transparência, ética e senso de pertencimento. A visão é ser lembrada como o melhor ecossistema educacional e tecnológico em suas áreas de atuação. O corpo dirigente inclui Fernando Luiz Zancan, Márcio Zanuz, Carlos Antônio Ferreira, Izes Beloli, Luciano Bilessimo e Jovani Castelan."
+    },
+    {
+      "keywords": ["estrutura", "infraestrutura", "laboratórios", "salas de aula", "certificação"],
+      "answer": "A Satc possui uma infraestrutura completa, com 60 laboratórios de nível tecnológico avançado, 85 salas de aulas e é certificada com a ISO 14001 desde 2008, demonstrando seu compromisso com a redução de impactos ambientais."
+    },
+    {
+      "keywords": ["cursos", "graduação", "pós-graduação", "educação", "tecnologia", "inovação"],
+      "answer": "A Satc oferece cursos desde a Educação Infantil até a Pós-graduação, com foco na formação técnica, científica, tecnológica e cultural dos alunos. Além disso, é uma instituição que busca constantemente inovar em suas metodologias de ensino."
+    },
+    {
+      "keywords": ["pesquisa científica", "laboratórios", "Centro Tecnológico", "desenvolvimento sustentável"],
+      "answer": "A Satc atua na área da pesquisa científica e serviços laboratoriais, buscando contribuir para o desenvolvimento sustentável por meio do Centro Tecnológico Satc, que traz novas perspectivas e soluções para diversos desafios."
+    },
+    {
+      "keywords": ["contato", "telefone", "secretaria", "atendimento"],
+      "answer": "Você pode entrar em contato com a Satc ligando para o número (insira o número de telefone aqui) ou através de outros meios de contato disponíveis em seu site oficial."
+    }
+  ],
+  "default": "Desculpe, mas no momento não consigo responder sua pergunta. Você pode entrar em contato diretamente com a SATC para obter mais informações."
+}

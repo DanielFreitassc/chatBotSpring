@@ -1,11 +1,13 @@
 package com.danielfreitassc.backend.domain;
 
+import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.Setter;
+
+import java.util.List;
 
 @Getter
-@Setter
+@AllArgsConstructor
 public class FaqAnswer {
-    private String[] keyWords;
+    private List<String> keywords;
     private String answer;
 }
