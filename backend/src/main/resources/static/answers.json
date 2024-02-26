@@ -1,9 +1,82 @@
 {
   "faq": [
-    {
-      "keywords": ["instituição", "Satc", "história", "fundação", "filantropia", "formação"],
+    {  
+      "keywords": [
+          "satc",
+          "stc",
+          "catc",
+          "datc",
+          "aatc",
+          "atc",
+          "sat",
+          "sact",
+          "unisatc",
+          "unsatc",
+          "usatc",
+          "unisac",
+          "entidade",
+          "escola",
+          "organização",
+          "estabelecimento",
+          "início",
+          "origens",
+          "criação",
+          "nascimento",
+          "formação educacional",
+          "instituição de ensino",
+          "história educacional",
+          "origem da Satc",
+          "fundação da Satc",
+          "início da Satc",
+          "entidade filantrópica",
+          "escola filantrópica",
+          "organização de caridade",
+          "instituição educacional",
+          "histórico da Satc",
+          "formação acadêmica",
+          "entidade",
+          "excola",
+          "organizacão",
+          "estabelecimento",
+          "inico",
+          "origens",
+          "criacão",
+          "nasçimento",
+          "formacão educacional",
+          "instituicão de ensino",
+          "história educacional",
+          "origem da Satc",
+          "fundacão da Satc",
+          "inicio da Satc",
+          "entidade filantropica",
+          "escola filantropica",
+          "organização de caridade",
+          "institucional educacional",
+          "historico da Satc",
+          "formacão academica"
+      ],
+      
       "answer": "A Satc é uma instituição filantrópica fundada em 1959, inicialmente como braço assistencial da Indústria Carbonífera de Santa Catarina. Ao longo dos anos, tornou-se referência na formação técnica e cidadã de seus alunos, oferecendo desde a Educação Infantil até a Pós-graduação."
-    },
+  },
+    {
+    "keywords": [
+      "hola", 
+      "ola", 
+      "hello", 
+      "oii", 
+      "oi",
+      "oa",
+      "io",
+      "oola",
+      "oiii",
+      "oie",
+      "oiiiii",
+      "oiiiii",
+      "olaa",
+      "olaaa"
+    ],
+    "answer": "Olá tudo bem eu sou o Chat Bot da SATC"
+   },
     {
       "keywords": ["missão", "valores", "visão", "corpo dirigente", "diretores"],
       "answer": "A missão da Satc é transformar pessoas e organizações por meio da educação, tecnologia e inovação, contribuindo para um mundo melhor. Seus valores incluem educação contínua, crescimento sustentável, inovação, liderança, responsabilidade social e ambiental, transparência, ética e senso de pertencimento. A visão é ser lembrada como o melhor ecossistema educacional e tecnológico em suas áreas de atuação. O corpo dirigente inclui Fernando Luiz Zancan, Márcio Zanuz, Carlos Antônio Ferreira, Izes Beloli, Luciano Bilessimo e Jovani Castelan."
@@ -22,8 +95,68 @@
     },
     {
       "keywords": ["contato", "telefone", "secretaria", "atendimento"],
-      "answer": "Você pode entrar em contato com a Satc ligando para o número (insira o número de telefone aqui) ou através de outros meios de contato disponíveis em seu site oficial."
+      "answer": "Você pode entrar em contato com a Satc ligando para o número (48) 3431-7502 ou através de outros meios de contato disponíveis em seu site oficial."
+    },
+    {
+      "keywords": ["processo seletivo", "inscrições", "vestibular", "matrículas"],
+      "answer": "O processo seletivo da Satc ocorre geralmente por meio de vestibular, com inscrições que podem ser feitas online através do site oficial da instituição. As datas e informações específicas sobre inscrições e matrículas podem ser encontradas no site ou nas redes sociais da Satc."
+    },
+    {
+      "keywords": ["bolsas de estudo", "financiamento estudantil", "programas de assistência estudantil"],
+      "answer": "A Satc oferece programas de bolsas de estudo e financiamento estudantil para alunos que necessitam de apoio financeiro para realizar seus estudos. Os detalhes sobre os programas disponíveis, critérios de elegibilidade e processo de candidatura podem ser obtidos entrando em contato com a instituição ou acessando informações no site oficial."
+    },
+    {
+      "keywords": ["eventos", "atividades extracurriculares", "feiras", "palestras"],
+      "answer": "A Satc promove diversos eventos, atividades extracurriculares, feiras e palestras ao longo do ano, proporcionando oportunidades adicionais de aprendizado, networking e desenvolvimento pessoal e profissional para seus alunos e a comunidade em geral. Os detalhes sobre os eventos programados, datas e como participar podem ser encontrados no site oficial da instituição ou nas redes sociais."
+    },
+    {
+      "keywords": ["parcerias", "convênios", "empresas parceiras"],
+      "answer": "A Satc mantém parcerias e convênios com diversas empresas e instituições, oferecendo oportunidades de estágios, projetos colaborativos, programas de capacitação e inserção dos alunos no mercado de trabalho. Para informações sobre as parcerias existentes e como estabelecer novas parcerias com a instituição, entre em contato diretamente com o setor responsável da Satc."
+    },
+    {
+      "keywords": ["alumni", "ex-alunos", "associação de ex-alunos"],
+      "answer": "A Satc valoriza seus ex-alunos e promove uma comunidade de ex-alunos ativos, oferecendo oportunidades de networking, eventos exclusivos, programas de mentoria e recursos para desenvolvimento profissional contínuo. Para se conectar com a comunidade de ex-alunos da Satc ou obter mais informações sobre a associação de ex-alunos, entre em contato com a instituição ou verifique as informações disponíveis no site oficial."
+    },
+    {
+      "keywords": ["vestimenta","vestimentas", "uniforme", "traje"],
+      "answer": "A Satc possui normas específicas de vestimenta para seus alunos, incluindo a utilização de uniforme em determinados cursos ou atividades. As informações detalhadas sobre as exigências de vestimenta, fornecimento de uniformes e políticas relacionadas podem ser obtidas junto à secretaria da instituição ou através do regulamento interno disponível no site oficial."
+    },
+    {
+      "keywords": ["calendário acadêmico","calendário", "feriados", "recesso"],
+      "answer": "O calendário acadêmico da Satc inclui informações sobre datas importantes, como o início e término de períodos letivos, feriados, recessos e eventos acadêmicos. Os estudantes podem acessar o calendário acadêmico completo através do site oficial da instituição ou consultá-lo junto à secretaria acadêmica."
+    },
+    {
+    "keywords": ["biblioteca", "acervo", "empréstimo de livros"],
+    "answer": "A biblioteca da Satc oferece um amplo acervo de livros, periódicos e recursos digitais para apoio às atividades acadêmicas e pesquisa. Os alunos podem realizar empréstimos de materiais mediante cadastro na biblioteca e observância das políticas de empréstimo estabelecidas. Horários de funcionamento e mais informações podem ser obtidos diretamente na biblioteca ou através do site oficial da instituição."
+    },
+    {
+    "keywords": ["intercâmbio", "mobilidade acadêmica", "estudantes internacionais"],
+    "answer": "A Satc oferece oportunidades de intercâmbio e mobilidade acadêmica para seus alunos, proporcionando experiências de aprendizado em instituições parceiras no Brasil e no exterior. Estudantes interessados em participar de programas de intercâmbio podem obter mais informações e orientações junto ao departamento responsável pela internacionalização na instituição."
+    },
+    {
+    "keywords": ["projetos de pesquisa", "iniciação científica", "grupos de pesquisa"],
+    "answer": "A Satc apoia projetos de pesquisa e incentiva a iniciação científica através de programas e grupos de pesquisa em diversas áreas do conhecimento. Alunos interessados em desenvolver projetos de pesquisa ou participar de grupos de pesquisa podem buscar orientação junto aos professores orientadores ou coordenadores de pesquisa da instituição."
+    },
+    {
+    "keywords": ["acessibilidade", "inclusão", "apoio a estudantes com deficiência"],
+    "answer": "A Satc está comprometida com a promoção da acessibilidade e inclusão, oferecendo apoio e recursos para estudantes com deficiência. Serviços de apoio incluem adaptações de infraestrutura, tecnologia assistiva, suporte pedagógico e acompanhamento personalizado. Estudantes com necessidades específicas podem entrar em contato com o departamento de apoio a estudantes para obter assistência e orientação."
+    },
+    {
+    "keywords": ["parcerias internacionais", "cooperação internacional", "acordos de cooperação"],
+    "answer": "A Satc mantém parcerias internacionais e participa de acordos de cooperação com instituições de ensino e pesquisa em diversos países. Essas parcerias possibilitam intercâmbios acadêmicos, colaborações em pesquisa e desenvolvimento de projetos conjuntos. Estudantes interessados em oportunidades de mobilidade internacional podem buscar informações sobre parcerias e programas disponíveis na instituição."
+    },
+    {
+    "keywords": ["cursos de idiomas", "proficiência linguística", "certificações"],
+    "answer": "A Satc oferece cursos de idiomas e programas de desenvolvimento de proficiência linguística para estudantes interessados em aprimorar suas habilidades em línguas estrangeiras. Além disso, a instituição pode oferecer suporte para obtenção de certificações reconhecidas internacionalmente. Informações sobre cursos disponíveis, horários e inscrições podem ser obtidas junto ao departamento de idiomas da Satc."
+    },
+    {
+    "keywords": ["programas de estágio", "oportunidades de emprego", "empregabilidade"],
+    "answer": "A Satc oferece programas de estágio e oportunidades de emprego em parceria com empresas e instituições, visando a inserção dos alunos no mercado de trabalho e o desenvolvimento de habilidades profissionais. Estudantes interessados em participar de programas de estágio ou obter informações sobre oportunidades de emprego podem buscar orientação junto ao departamento de estágios e empregabilidade da instituição."
+    },
+    {
+    "keywords": ["suporte técnico", "assistência tecnológica", "infraestrutura de TI"],
+    "answer": "A Satc oferece suporte técnico e assistência tecnológica para alunos e colaboradores, garantindo o bom funcionamento e utilização eficiente da infraestrutura de TI da instituição. Serviços incluem manutenção de equipamentos, suporte a software, acesso à rede Wi-Fi e recursos digitais. Para assistência técnica, os usuários podem contatar a equipe de suporte técnico da Satc."
     }
-  ],
+    ],
   "default": "Desculpe, mas no momento não consigo responder sua pergunta. Você pode entrar em contato diretamente com a SATC para obter mais informações."
 }
